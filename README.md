@@ -7,14 +7,14 @@ Core functionality for a web service sketch sketch that lets a user interact wit
 
 Features:
 
-  google maps api
-  js animation
-  php
-  jquery, ajax
-  mvc design pattern principles
+  - google maps api
+  - js animation
+  - php
+  - jquery, ajax
+  - mvc design pattern principles
 
 Additional technologies: 
 
-  bootstrap, parsley
-  flock charts
+  - bootstrap, parsley
+  - flock charts
 
