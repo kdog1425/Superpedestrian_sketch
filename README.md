@@ -1,7 +1,7 @@
 Superpedestrian_sketch
 ======================
 
-khenprice.com/superpedestrian
+http://khenprice.com/superpedestrian
  
 A dashboard for Superpedestrian users
 
