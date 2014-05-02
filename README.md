@@ -18,5 +18,5 @@ Features:
 Additional technologies: 
 
   - bootstrap, parsley
-  - flock charts
+  - flot charts
 
